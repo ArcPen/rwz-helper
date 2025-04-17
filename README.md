@@ -33,3 +33,5 @@ pip install pandas openpyxl
 - CSV文件会自动尝试多种编码（utf-8, gbk等）
 - 程序会跳过空回答和标记为"(空)"的回答
 - 标识列建议选择花名
+
+如果有帮到你的话可以留个star⭐
