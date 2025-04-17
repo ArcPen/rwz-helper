@@ -19,6 +19,9 @@
 4. 程序会自动生成`[原文件名]_整理结果.txt`
 
 ## 依赖
+
+（直接运行release中exe的话就不用配置环境了）
+
 - Python 3.6+
 - pandas
 - openpyxl (用于处理Excel文件)
